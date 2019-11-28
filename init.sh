@@ -16,7 +16,7 @@ apt-get -y install aria2 wget && \
 apt-fast update && \
 apt-fast -y upgrade
 
-apt-fast install -y git fish zsh
+apt-fast install -y fish zsh
 
 git clone --depth=1 https://github.com/Bash-it/bash-it.git \
   ~/.bash_it && \
