@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 
 apt-fast install -y \
-  apt-transport-https \
   ca-certificates \
   curl \
   software-properties-common
