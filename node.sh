@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-apt-fast install -y make g++
+apt-fast install -y make 
 
 NVM_VERSION='0.35.1'
 
